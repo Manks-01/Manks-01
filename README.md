@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=341539&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=341539\&size=35\&center=true\&vCenter=true\&width=1000\&lines=👋+Hello,+My+name+is+Marcos+Vitor;🎂+I'm+20+years+old;📊+Data+Scientist;🚀+Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=341539\&size=35\&center=true\&vCenter=true\&width=1000\&lines=👋+Hello,+My+name+is+Marcos+Vitor;🎂+I'm+20+years+old;📊+Data+Scientist;+😁Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Me
 
 🎓 Studying Data Science
 🐍 Python enthusiast
@@ -17,15 +17,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
----
-
-### 🧰 Tools
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
 
@@ -43,11 +34,7 @@
 ![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-### 📫 Contact
-
-💼 LinkedIn: coloque-seu-link
-📧 Email: seu-email
+📧 Email: mv401917@gmail.com
 
 ---
 
